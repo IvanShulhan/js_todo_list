@@ -1,1 +1,1 @@
-[DEMO LINK](https://ivanshulhan.github.io/todo_list/)
+[DEMO LINK](https://ivanshulhan.github.io/js_todo_list/)
